@@ -1,0 +1,50 @@
+AL,Alabama - Gov. Kay Ivey
+AK,Alaska - Gov. Mike Dunleavy
+AZ,Arizona - Gov. Doug Ducey
+AR,Arkansas - Gov. Asa Hutchinson
+CA,California - Gov. Gavin Newsom
+CO,Colorado - Gov. Jared Polis
+CT,Connecticut - Gov. Ned Lamont
+DE,Delaware - Gov. John Carney
+FL,Florida - Gov. Ron DeSantis
+GA,Georgia - Gov. Brian Kemp
+HI,Hawaii - Gov. David Ige
+ID,Idaho - Gov. Brad Little
+IL,Illinois - Gov. J. B. Pritzker
+IN,Indiana - Gov. Eric Holcomb
+IA,Iowa - Gov. Kim Reynolds
+KS,Kansas - Gov. Laura Kelly
+KY,Kentucky - Gov. Matt Bevin
+LA,Louisiana - Gov. John Bel Edwards
+ME,Maine - Gov. Janet Mills
+MD,Maryland - Gov. Larry Hogan
+MA,Massachusetts - Gov. Charlie Baker
+MI,Michigan - Gov. Gretchen Whitmer
+MN,Minnesota - Gov. Tim Walz
+MS,Mississippi - Gov. Phil Bryant
+MO,Missouri - Gov. Mike Parson
+MT,Montana - Gov. Steve Bullock
+NE,Nebraska - Gov. Pete Ricketts
+NV,Nevada - Gov. Steve Sisolak
+NH,New Hampshire - Gov. Chris Sununu
+NJ,New Jersey - Gov. Phil Murphy
+NM,New Mexico - Gov. Michelle Lujan Grisham
+NY,New York - Gov. Andrew Cuomo
+NC,North Carolina - Gov. Roy Cooper
+ND,North Dakota - Gov. Doug Burgum
+OH,Ohio - Gov. Mike DeWine
+OK,Oklahoma - Gov. Kevin Stitt
+OR,Oregon - Gov. Kate Brown
+PA,Pennsylvania - Gov. Tom Wolf
+RI,Rhode Island - Gov. Gina Raimondo
+SC,South Carolina - Gov. Henry mcMaster
+SD,South Dakota - Gov. Kristi Noem
+TN,Tennessee - Gov. Bill Lee
+TX,Texas - Gov. Greg Abbott
+UT,Utah - Gov. Gary Herbert
+VT,Vermont - Gov. Phil Scott
+VA,Virginia - Gov. Ralph Northam
+WA,Washington - Gov. Jay Inslee
+WV,West Virginia - Gov. Jim Justice
+WI,Wisconsin - Gov. Tony Evers
+WY,Wyoming - Gov. Mark Gordon
